@@ -1,0 +1,32 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "switha@me.com",
+    "longName": "ByteWatch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/MenuBlack.png",
+                "menuIcon": true,
+                "name": "menu_black",
+                "type": "png"
+            },
+            {
+                "file": "images/MenuInvBW.png",
+                "name": "menu_image_bw",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "ByteWatch",
+    "uuid": "3f4d3753-ea7d-4e9f-901d-512566731268",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
